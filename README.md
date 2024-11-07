@@ -61,9 +61,9 @@
   <summary><b>📈 Click to see my Stats</b></summary> 
   <br/>
   <p align="center">
-   <img  src="https://github-readme-stats.vercel.app/api?username=TheekshanaSn&show_icons=true&count_private=true&theme=algolia" alt="theekshanasn" height='150' />&nbsp;
+   <img  src="https://github-readme-stats.vercel.app/api?username=TheekshanaSn&show_icons=true&count_private=true&theme=algolia" alt="theekshanasn" height='165' />&nbsp;
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekshanaSn&angs_count=6&layout=compact&theme=algolia" alt="theekshanasn" height='150' />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekshanaSn&angs_count=6&layout=compact&theme=algolia" alt="theekshanasn" height='165' />
     
  
 
